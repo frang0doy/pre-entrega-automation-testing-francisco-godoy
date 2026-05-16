@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Reportes generados (opcional: podés comentar esta línea si querés subir el reporte)
+reports/reporte.html
+reports/screenshots/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
